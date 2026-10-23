@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 51c8dec5b49463546a6e6dc45141c17a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5415912772373144653
+    second: sprite_fondo_transparente_0
+  - first:
+      213: -159959966227528587
+    second: sprite_fondo_transparente_1
+  - first:
+      213: 99615304328488170
+    second: sprite_fondo_transparente_2
+  - first:
+      213: 5452027624790860750
+    second: sprite_fondo_transparente_3
+  - first:
+      213: 1771346147318228515
+    second: sprite_fondo_transparente_4
+  - first:
+      213: -7263180909843570399
+    second: sprite_fondo_transparente_5
+  - first:
+      213: 333530086205338922
+    second: sprite_fondo_transparente_6
+  - first:
+      213: 1270055085445016934
+    second: sprite_fondo_transparente_7
+  - first:
+      213: 4423877688446958293
+    second: sprite_fondo_transparente_8
+  - first:
+      213: -6807678409701070293
+    second: sprite_fondo_transparente_9
+  - first:
+      213: 1876982403136304797
+    second: sprite_fondo_transparente_10
+  - first:
+      213: -4002820745877006894
+    second: sprite_fondo_transparente_11
+  - first:
+      213: -77958115385959445
+    second: sprite_fondo_transparente_12
+  - first:
+      213: 712928018280906187
+    second: sprite_fondo_transparente_13
+  - first:
+      213: -2345203260338266870
+    second: sprite_fondo_transparente_14
+  - first:
+      213: -6763467019212092246
+    second: sprite_fondo_transparente_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb923c3700d6d4b0800000000000000
+      internalID: -5415912772373144653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 760
+        width: 660
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57489ba1245b7cdf0800000000000000
+      internalID: -159959966227528587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_2
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1023
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae421bc6797e16100800000000000000
+      internalID: 99615304328488170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_3
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 756
+        width: 646
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3a6491d3e79ab40800000000000000
+      internalID: 5452027624790860750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 1
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326e82d9fe5159810800000000000000
+      internalID: 1771346147318228515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 505
+        width: 661
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1212069c17ff33b90800000000000000
+      internalID: -7263180909843570399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_6
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1023
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25bc26a8dfe0a400800000000000000
+      internalID: 333530086205338922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_7
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 503
+        width: 649
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66de0250f5420a110800000000000000
+      internalID: 1270055085445016934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 1
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da38a5a155c46d30800000000000000
+      internalID: 4423877688446958293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 249
+        width: 643
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aeba41e844681a0800000000000000
+      internalID: -6807678409701070293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_10
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1023
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96399c0d816c0a10800000000000000
+      internalID: 1876982403136304797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_11
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 250
+        width: 652
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5df6e4dbf1378c0800000000000000
+      internalID: -4002820745877006894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb9f01d1890beef0800000000000000
+      internalID: -77958115385959445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3
+        width: 640
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd7e006144d4e900800000000000000
+      internalID: 712928018280906187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_14
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1011
+        width: 1
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d13756f0a247fd0800000000000000
+      internalID: -2345203260338266870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_fondo_transparente_15
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 4
+        width: 650
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac0bc594965322a0800000000000000
+      internalID: -6763467019212092246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 661e4e4e288e2644fb924046e7bcf016
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite_fondo_transparente_0: -5415912772373144653
+      sprite_fondo_transparente_1: -159959966227528587
+      sprite_fondo_transparente_10: 1876982403136304797
+      sprite_fondo_transparente_11: -4002820745877006894
+      sprite_fondo_transparente_12: -77958115385959445
+      sprite_fondo_transparente_13: 712928018280906187
+      sprite_fondo_transparente_14: -2345203260338266870
+      sprite_fondo_transparente_15: -6763467019212092246
+      sprite_fondo_transparente_2: 99615304328488170
+      sprite_fondo_transparente_3: 5452027624790860750
+      sprite_fondo_transparente_4: 1771346147318228515
+      sprite_fondo_transparente_5: -7263180909843570399
+      sprite_fondo_transparente_6: 333530086205338922
+      sprite_fondo_transparente_7: 1270055085445016934
+      sprite_fondo_transparente_8: 4423877688446958293
+      sprite_fondo_transparente_9: -6807678409701070293
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

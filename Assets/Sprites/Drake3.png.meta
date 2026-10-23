@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 698b6a76029c7084b8494aa76beda92c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4000192840143061510
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_0
+  - first:
+      213: 1731197603685818216
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_1
+  - first:
+      213: 3195228918930998997
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_2
+  - first:
+      213: 1358784041250427585
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_3
+  - first:
+      213: 7746279551735810841
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_4
+  - first:
+      213: 7151073243969598702
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_5
+  - first:
+      213: 6050902300208471230
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_6
+  - first:
+      213: -6430799196996196834
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_7
+  - first:
+      213: -7667411766746391761
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_8
+  - first:
+      213: 7498421151096466033
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_9
+  - first:
+      213: 2211206593596506860
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_10
+  - first:
+      213: -2436988901509965116
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_11
+  - first:
+      213: 862135720148003406
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_12
+  - first:
+      213: -5402288756194164567
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_13
+  - first:
+      213: 9106112236004867005
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_14
+  - first:
+      213: 4357826445648893222
+    second: WhatsApp Image 2026-09-30 at 13.38.01-Photoroom_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drake3_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 288
+        width: 140
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5468329, y: 0.5510243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f2c2918c1704c40b39abb8f1119445
+      internalID: -287288586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 290
+        width: 161
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5989018, y: 0.5487063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e217bf98c37e048ac8d9039b82577b
+      internalID: 1511422607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 294
+        width: 175
+        height: 251
+      alignment: 9
+      pivot: {x: 0.62217283, y: 0.5418833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e30c715fd5760241b755c5bd4ae2e23
+      internalID: 850603314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 292
+        width: 191
+        height: 253
+      alignment: 9
+      pivot: {x: 0.62198347, y: 0.5229386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcf52686bc8831498c26b6c17044f9e
+      internalID: 1790959280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_4
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 294
+        width: 228
+        height: 251
+      alignment: 9
+      pivot: {x: 0.59289175, y: 0.5305847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391ed103cf3d36241aa6d50dfb0c64f4
+      internalID: 935884649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_5
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 294
+        width: 133
+        height: 248
+      alignment: 9
+      pivot: {x: 0.51216424, y: 0.49598005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51148832b53b4c45a0994ee4fd77eec
+      internalID: 633507080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_6
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 295
+        width: 213
+        height: 247
+      alignment: 9
+      pivot: {x: 0.64380187, y: 0.5316171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f74d233d380184988835ce066930cb
+      internalID: 1387897383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_7
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 297
+        width: 233
+        height: 244
+      alignment: 9
+      pivot: {x: 0.60853934, y: 0.4279494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5637c047c1cdc8498d8c1cd2e5e7235
+      internalID: 457907393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 41
+        width: 156
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5480337, y: 0.56214803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ec5b03f1c0b224dbabbf6949ef345c
+      internalID: 1527575408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 44
+        width: 182
+        height: 246
+      alignment: 9
+      pivot: {x: 0.505383, y: 0.5627429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3fabd01e5f8554591ca115e34a11b5
+      internalID: -442784957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 42
+        width: 176
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef382b8e5ce1e844839f2faf6794515
+      internalID: 346138453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_11
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 41
+        width: 165
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853c51ae563c8e24ebb5c35ddea5adad
+      internalID: -266543114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_12
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 42
+        width: 164
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb439bf8aaa96914d924dbcd18ca3ff2
+      internalID: -1301785251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_13
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 41
+        width: 160
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619c4c8a85fc5334e98f935d576722e5
+      internalID: 1306178213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_14
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 40
+        width: 168
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3842cb5559ae388469a3cf1cfe0c8ac9
+      internalID: 1499128835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drake3_15
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 39
+        width: 175
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a5eae41f06e654cbd39bdf7b649a7a
+      internalID: -402001989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e59cd73c140e6f7419b26607d83551dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      Drake3_0: -287288586
+      Drake3_1: 1511422607
+      Drake3_10: 346138453
+      Drake3_11: -266543114
+      Drake3_12: -1301785251
+      Drake3_13: 1306178213
+      Drake3_14: 1499128835
+      Drake3_15: -402001989
+      Drake3_2: 850603314
+      Drake3_3: 1790959280
+      Drake3_4: 935884649
+      Drake3_5: 633507080
+      Drake3_6: 1387897383
+      Drake3_7: 457907393
+      Drake3_8: 1527575408
+      Drake3_9: -442784957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
